@@ -1,0 +1,1 @@
+# A test for FASTAPI app with Dockerhub Deploy for GHActions
